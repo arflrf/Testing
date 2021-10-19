@@ -1,0 +1,6 @@
+C:\Users\aaforeh\RiderProjects\Testing\TestingApp1\bin\Debug\TestingApp1.exe
+C:\Users\aaforeh\RiderProjects\Testing\TestingApp1\bin\Debug\TestingApp1.pdb
+C:\Users\aaforeh\RiderProjects\Testing\TestingApp1\obj\Debug\TestingApp1.csproj.AssemblyReference.cache
+C:\Users\aaforeh\RiderProjects\Testing\TestingApp1\obj\Debug\TestingApp1.csproj.CoreCompileInputs.cache
+C:\Users\aaforeh\RiderProjects\Testing\TestingApp1\obj\Debug\TestingApp1.exe
+C:\Users\aaforeh\RiderProjects\Testing\TestingApp1\obj\Debug\TestingApp1.pdb
