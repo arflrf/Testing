@@ -9,12 +9,14 @@ namespace TestingApp1
             Console.WriteLine("Hello World");
             int x = 36;
             int y = 43;
+            int z = 26;
             int xy = x * y;
+            int xyz = x * y * z;
             //Console.WriteLine(xy);
 
             Console.WriteLine("If " + x + " and " + y + " were multiplied together, it would be " + xy);
-
-            while (x == 36)
+            Console.WriteLine(" The product of x, y, and z is " + xyz);
+            /*while (x == 36)
             {
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("Red");
@@ -30,7 +32,7 @@ namespace TestingApp1
                 Console.WriteLine("Magenta");
                 Console.BackgroundColor = ConsoleColor.Black;
                 //Console.ReadLine();
-            }
+            }*/
         }
     }
 }
