@@ -14,7 +14,7 @@ namespace TestingApp1
 
             Console.WriteLine("If " + x + " and " + y + " were multiplied together, it would be " + xy);
 
-            while (x == 36)
+            /*while (x == 36)
             {
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("Red");
@@ -28,7 +28,9 @@ namespace TestingApp1
                 Console.WriteLine("Blue");
                 Console.BackgroundColor = ConsoleColor.DarkMagenta;
                 Console.WriteLine("Magenta");
-            }
+                Console.BackgroundColor = ConsoleColor.Black;
+                //Console.ReadLine();
+            }*/
         }
     }
 }
